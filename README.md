@@ -28,7 +28,7 @@ Track the progress of your LLD practice and implementation. Use checkboxes to ma
 - [x] Chain of Responsibility
 - [ ] Command
 - [ ] Template
-- [ ] State
+- [x] State
 - [ ] Mediator
 - [ ] Memento
 - [ ] Visitor
