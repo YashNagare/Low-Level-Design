@@ -15,7 +15,7 @@ Track the progress of your LLD practice and implementation. Use checkboxes to ma
 
 ### Structural Patterns
 - [ ] Adapter
-- [ ] Decorator
+- [x] Decorator
 - [ ] Composite
 - [ ] Proxy
 - [ ] Facade
