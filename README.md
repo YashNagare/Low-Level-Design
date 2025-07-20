@@ -43,7 +43,7 @@ Track the progress of your LLD practice and implementation. Use checkboxes to ma
 - [ ] Design Stack Overflow
 - [x] Design a Vending Machine
 - [ ] Design Logging Framework
-- [ ] Design Traffic Signal Control System
+- [x] Design Traffic Signal Control System
 - [ ] Design Coffee Vending Machine
 - [ ] Design a Task Management System
 
